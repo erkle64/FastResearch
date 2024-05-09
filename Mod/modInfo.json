@@ -1,0 +1,9 @@
+{
+  "identifier": "erkle64.FastResearch",
+  "displayName": "FastResearch",
+  "assetBundles": [ ],
+  "assemblies": [
+    "FastResearch.dll"
+  ]
+}
+
